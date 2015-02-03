@@ -44,11 +44,11 @@ Temporary Items
 
 
 
- Builds/
- Binaries/
- Intermediate/
- Saved/
- ProjectName.opensdf
- ProjectName.sdf
- ProjectName.sln
- ProjectName.v12.suo
+ leGameName/Builds/
+ leGameName/Binaries/
+ leGameName/Intermediate/
+ leGameName/Saved/
+ leGameName/ProjectName.opensdf
+ leGameName/ProjectName.sdf
+ leGameName/ProjectName.sln
+ leGameName/ProjectName.v12.suo
